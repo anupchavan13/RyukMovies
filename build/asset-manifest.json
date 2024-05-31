@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RyukMovies/static/css/main.4e75e9dd.css",
+    "main.js": "/RyukMovies/static/js/main.e2b9796a.js",
+    "static/media/error_robot.png": "/RyukMovies/static/media/error_robot.a3317e560f7c053db3af.png",
+    "index.html": "/RyukMovies/index.html",
+    "main.4e75e9dd.css.map": "/RyukMovies/static/css/main.4e75e9dd.css.map",
+    "main.e2b9796a.js.map": "/RyukMovies/static/js/main.e2b9796a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e75e9dd.css",
+    "static/js/main.e2b9796a.js"
+  ]
+}
